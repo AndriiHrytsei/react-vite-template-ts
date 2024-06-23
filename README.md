@@ -30,4 +30,4 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 
-**_ When creating a project using this template, change the value of ```base``` in ```vite.config.ts``` and ```name``` in ```package.json``` to the name of your repository. This is very important for the project to work as intended. _**
+**_When creating a project using this template, change the value of ```base``` in ```vite.config.ts``` and ```name``` in ```package.json``` to the name of your repository. This is very important for the project to work as intended._**
